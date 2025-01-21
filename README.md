@@ -37,13 +37,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.png" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/018/783/274/non_2x/deep-learning-icon-from-industry-4-0-collection-simple-line-element-deep-learning-symbol-for-templates-web-design-and-infographics-vector.jpg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/013/899/429/original/machine-learning-icon-artificial-intelligence-smart-machine-logo-template-illustration-free-vector.jpg" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://ih1.redbubble.net/image.2488768334.2177/st,small,507x507-pad,600x600,f8f8f8.jpg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo.png" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
