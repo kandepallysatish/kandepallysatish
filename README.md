@@ -45,11 +45,13 @@
   <img width="12" />
   <img src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo.png" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://img.favpng.com/20/2/11/logo-mysql-organization-brand-database-png-favpng-zudbupMeT57iEMTXAPVszhVsv.jpg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" height="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://p7.hiclipart.com/preview/1005/511/631/web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://clipground.com/images/html-clipart-logo-1.jpg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
