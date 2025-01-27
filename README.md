@@ -24,11 +24,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Hyderabad,India <br><br>- 🔭 I’m working as a Python Developer<br>- 🧑🏻‍💼 I have 3+ years Experience<br>- 📚 I'm currently learning FullStack<br>- ⚡ In my free time I ...</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools (from my Experience)</h3>
 
 ###
 
