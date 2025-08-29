@@ -43,6 +43,8 @@
   <img width="12" />
   <img src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo.png" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/134/190/png-clipart-sql-logo-microsoft-sql-server-mysql-database-logo-others-blue-text-thumbnail.png" height="40" alt="SQL logo"  />
+  <img width="12" />
   <img src="https://img.favpng.com/20/2/11/logo-mysql-organization-brand-database-png-favpng-zudbupMeT57iEMTXAPVszhVsv.jpg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" height="40" alt="circleci logo"  />
