@@ -52,6 +52,8 @@
   <img src="https://clipground.com/images/html-clipart-logo-1.jpg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://logowik.com/content/uploads/images/fastapi6230.logowik.com.webp" height="40" alt="fastapi logo"  />
 </div>
 
 ###
